@@ -31,7 +31,7 @@
 ## Déroulement
 Le jeu se déroule en 2 phases:
 
-###1. Reconstitution des événements:
+### 1. Reconstitution des événements:
 * Cette phases se déroule en **7 tours max**, représenté par l'horloge.
 * Durant cette phase il faut trouver le **personnage**, le **lieu** et **l'arme** du crime.
 * On cherche dans l'ordre pour chaque joueur:
@@ -41,7 +41,7 @@ Le jeu se déroule en 2 phases:
 
 Cette phase est composé de **2 étapes**:
 
-####1. Interprétation des visions:
+#### 1. Interprétation des visions:
 * le fantôme donne au médium de son choix 1 ou + **carte vision**.
 * Il pousse le **jeton fantôme**(9, côté couleur) contre la colonne du personnage correspondant afin de se souvenir qu'il s'est occupé de ce médium.
 * Il complète sa main pour avoir **7** cartes **vision** (en cas de manque il re-mélange la défausse des cartes vision)
@@ -52,7 +52,7 @@ Cette phase est composé de **2 étapes**:
 	* 1 jetons de clairvoyance pour 1 pion intuition, **pas plus**!
 	* Les pions utilisés seront défaussé et réutilisable qu'à partir du **4em tour** de jeu.
 
-####2. Le fantôme se manifeste
+#### 2. Le fantôme se manifeste
 Le fantôme **indique à chaque** médiums si il a **interprété correctement** les visions ou pas. Une fois fait, il recule de son paravent le **jeton fantôme**(9) correspondant afin de n'oublier aucun médium.
 
 * Si le médium a désigné la **bonne carte médium**(5,6 ou 7): 
@@ -73,7 +73,7 @@ Le fantôme **indique à chaque** médiums si il a **interprété correctement**
 Une fois cette étape passé, on **avance l'aiguille de l'horloge d'une heure**.
 > * Si l'aiguille est déjà sur la 7e heure, la **partie est perdu**.
 > * Si tous les médiums ont trouvé leur combinaison de 3 cartes médiums. Nous passons à la phase **révélation du coupable**.
-###2. La révélation du coupable:
+### 2. La révélation du coupable:
 Cette phase se décompose en 3 étapes:
 #### 1. Confrontation des suspects
 * Les joueurs rangent les cartes médiums qui ne sont plus utiles (celles qui ne sont pas dans les étuis des joueurs.
@@ -103,12 +103,12 @@ Une fois le vote effectué:
 * Le **plus clairvoyant** des médiums (celui qui est le plus avancé sur **piste de clairvoyance** ou en cas d'égalité le plus âgée) dépouille les votes
 * Si aucun groupe n'est majoritaire, qu'il y a égalité, c'est aussi le **plus clairvoyant** des médiums qui tranche.
 
-##Règle pour 2-3 joueurs:
-###Spécificité de mise en place:
+## Règle pour 2-3 joueurs:
+### Spécificité de mise en place:
 * **Ne pas utiliser** la piste et les jetons de clairvoyance.
 * Chaque joueur incarne 2 médiums
 * lors de l'étape de vision commune, les 3 **cartes vision** sont placé face **visible**.
-###Spécificité de la phase "2. La révélation du coupable"
+### Spécificité de la phase "2. La révélation du coupable"
 #### 1. La confrontation des suspects
 * A 2 joueurs:
 	* Constitué aléatoirement 2 groupe de cartes supplémentaire (personnage, lieu et objet). Un 3e et 4e groupe est ainsi formé.
