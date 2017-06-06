@@ -1,4 +1,22 @@
-# Mysterium
+[TOC]
+
+# **Mysterium**
+## **@TTENTION** Règle pour 2-3 joueurs:
+### Spécificité de mise en place:
+* **Ne pas utiliser** la piste et les jetons de clairvoyance.
+* Chaque joueur incarne 2 médiums
+* lors de l'étape de vision commune, les 3 **cartes vision** sont placé face **visible**.
+### Spécificité de la phase "2. La révélation du coupable"
+#### 1. La confrontation des suspects
+* A 2 joueurs:
+	* Constitué aléatoirement 2 groupe de cartes supplémentaire (personnage, lieu et objet). Un 3e et 4e groupe est ainsi formé.
+* A 3 joueurs:
+	* Utiliser 4 jetons fantôme numéroté de 1 à 4.
+#### 3. Le référendum
+* A 2 joueurs:
+	* Désigner avec un seul pion intuition, le groupe coupable.
+* A 3 joueurs:
+	* Le vote des médiums n'est pas secret. Les joueurs se mettent d'accord pour désigner le groupe coupable en plaçant tous 2 leur **pion intuition**.
 ## But
 * Découvrir la vérité sur la mort du fantôme afin de lui apporter la paix.
 	* **Qui** a tué le fantôme.
@@ -55,8 +73,8 @@ Cette phase est composé de **2 étapes**:
 #### 2. Le fantôme se manifeste
 Le fantôme **indique à chaque** médiums si il a **interprété correctement** les visions ou pas. Une fois fait, il recule de son paravent le **jeton fantôme**(9) correspondant afin de n'oublier aucun médium.
 
-* Si le médium a désigné la **bonne carte médium**(5,6 ou 7): 
-	* le fantôme **retourne la carte fantôme** correspondante dans son paravent. 
+* Si le médium a désigné la **bonne carte médium**(5,6 ou 7):
+	* le fantôme **retourne la carte fantôme** correspondante dans son paravent.
 	* les médium ayant joué un bon **jeton de clairvoyance**(coche verte), avance leur marqueur d'1 case sur la **piste de clairvoyance**.
 	* le médium prend la bonne **carte médium** et la place dans son **étui**.
 	* le médium défausse ses **cartes vision**.
@@ -77,7 +95,7 @@ Une fois cette étape passé, on **avance l'aiguille de l'horloge d'une heure**.
 Cette phase se décompose en 3 étapes:
 #### 1. Confrontation des suspects
 * Les joueurs rangent les cartes médiums qui ne sont plus utiles (celles qui ne sont pas dans les étuis des joueurs.
-* Placer autant de **jetons fantôme** (coté numéroté) 
+* Placer autant de **jetons fantôme** (coté numéroté)
 * Regrouper le contenue des **étuis** en dessous de chacun des **jetons fantôme**.
 * Le fantôme prends 6 **jetons coupable**(11) et les garde derrière son paravent.
 * Les médiums récupèrent leurs **jetons clairvoyance**.
@@ -85,13 +103,15 @@ Cette phase se décompose en 3 étapes:
 Le fantôme doit faire découvrir aux médiums le groupe appartenant au coupable.
 Pour Cela:
 
-* il sélectionne **3 cartes vision** de sa main - ***la vision commune***. Celles-ci doivent, **chacune correspondre**, au **personnage**, **lieu** et **arme** du crime.
+* il sélectionne **3 cartes vision de sa main** (7 cartes au total) - la "vision commune". Celles-ci doivent, **chacune correspondre séparément**, au **personnage**, **lieu** et **arme** du crime.
+> Donc pour le fantôme devrait anticiper sur les derniers tour pour garder "les cartes qui vont bien" pour cette étape!
+
 * il les mélange et les pose, faces cachés, au centre de la table.
 * il prend le **jeton coupable** dont le numéro correspond au groupe du coupable et le place face caché sur le **plateau de progression/épilogue** sur la case coupable (1, le point interrogation)
 #### 3. Le référendum
 Les médiums seront amenés à voter et désigner par la majorité, le groupe présumé coupable.
 > **@TTENTION**: durant cette étape:
-> 
+>
 > * Le fantôme doit **garder le secret** sur la correspondance de chaque carte avec l'élément correspondant (laquelle correspond au lieu, personnage ou objet...)
 > * Durant le vote les médiums **ne peuvent pas communiquer** et les votes **sont secret**.
 
@@ -102,20 +122,3 @@ Une fois le vote effectué:
 
 * Le **plus clairvoyant** des médiums (celui qui est le plus avancé sur **piste de clairvoyance** ou en cas d'égalité le plus âgée) dépouille les votes
 * Si aucun groupe n'est majoritaire, qu'il y a égalité, c'est aussi le **plus clairvoyant** des médiums qui tranche.
-
-## Règle pour 2-3 joueurs:
-### Spécificité de mise en place:
-* **Ne pas utiliser** la piste et les jetons de clairvoyance.
-* Chaque joueur incarne 2 médiums
-* lors de l'étape de vision commune, les 3 **cartes vision** sont placé face **visible**.
-### Spécificité de la phase "2. La révélation du coupable"
-#### 1. La confrontation des suspects
-* A 2 joueurs:
-	* Constitué aléatoirement 2 groupe de cartes supplémentaire (personnage, lieu et objet). Un 3e et 4e groupe est ainsi formé.
-* A 3 joueurs:
-	* Utiliser 4 jetons fantôme numéroté de 1 à 4.
-#### 3. Le référendum
-* A 2 joueurs:
-	* Désigner avec un seul pion intuition, le groupe coupable.
-* A 3 joueurs:
-	* Le vote des médiums n'est pas secret. Les joueurs se mettent d'accord pour désigner le groupe coupable en plaçant tous 2 leur **pion intuition**.
