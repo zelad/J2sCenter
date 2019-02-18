@@ -13,8 +13,7 @@
       cuite
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" ID="ID_1186081296" MODIFIED="1507291773563" POSITION="right" STYLE="bubble" TEXT="Principes">
 <node BACKGROUND_COLOR="#cc99ff" COLOR="#000000" CREATED="1409834328281" ID="ID_1127291651" MODIFIED="1549892122453">
 <richcontent TYPE="NODE"><html>
@@ -51,8 +50,7 @@
       La <b>seule trace</b>&#160;de cette qu&#234;te sera un<br /><b>petit papier pli&#233; </b>que quelqu&#8217;un retrouvera dans sa poche.<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1549893802694" ID="ID_795328814" MODIFIED="1549893807511" TEXT="La mission">
@@ -66,8 +64,7 @@
       une personnalit&#233; du village (par exemple, la fille du seigneur local) a bu par m&#233;garde un &#233;trange poison &#171; <b>Tugulak</b>&#160;&#187; qui tra&#238;nait dans un placard.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549893864669" ID="ID_1621157332" MODIFIED="1549893943323">
 <richcontent TYPE="NODE"><html>
@@ -79,8 +76,7 @@
       Ce poison n&#8217;est pas standard, et la personne est &#224; pr&#233;sent tr&#232;s malade et <b>risque de mourir.</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549893876268" ID="ID_1680348037" MODIFIED="1549893959593">
 <richcontent TYPE="NODE"><html>
@@ -95,8 +91,7 @@
       en fin de soir&#233;e, pour recruter des aventuriers qui devaient &#171; <b>partir sur le champ</b>&#160;&#187;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549893892183" ID="ID_988249390" MODIFIED="1549894012645">
 <richcontent TYPE="NODE"><html>
@@ -111,8 +106,7 @@
       un jeune homme qui <b>a &#233;t&#233; son stagiaire </b>quelques mois auparavant et qui est <b>parti</b>&#160;depuis s&#8217;<b>installer dans les ruines.</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549893910105" ID="ID_1421553008" MODIFIED="1549894044744">
 <richcontent TYPE="NODE"><html>
@@ -124,8 +118,7 @@
       On sait qu&#8217;il <b>trafique</b>&#160;des <b>trucs bizarres</b>&#160;mais pour le moment il n&#8217;<b>avait inqui&#233;t&#233; personne.</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1549894050196" ID="ID_1349213348" MODIFIED="1549894053080" TEXT="Le matin">
@@ -142,8 +135,7 @@
       un lieu qui se trouve &#224; 1 ou 2 km du village
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549894097531" ID="ID_220175549" MODIFIED="1549894116622">
 <richcontent TYPE="NODE"><html>
@@ -155,8 +147,7 @@
       .Et plus pr&#233;cis&#233;ment dans le souterrain du <b>repaire secret de l&#8217;herboriste fou</b>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549894116623" ID="ID_1560707924" MODIFIED="1549894148550">
 <richcontent TYPE="NODE"><html>
@@ -174,8 +165,7 @@
       commencer &#224; explorer les couloirs et retrouver peu &#224; peu des bribes des souvenirs de la veille.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 </node>
 </node>
@@ -267,7 +257,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_103772571" MODIFIED="1549903105522" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" ID="ID_103772571" MODIFIED="1550493345167" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -280,8 +270,7 @@
       et le cadavre&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-1"/>
 <node CREATED="1549894200530" ID="ID_1605520164" MODIFIED="1549894253647">
 <richcontent TYPE="NODE"><html>
@@ -316,8 +305,7 @@
       se <b>r&#233;veillant en premier.</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="wizard"/>
 </node>
 </node>
@@ -343,8 +331,7 @@
       Je lui d&#233;crit la sc&#232;ne en fonction de son profil.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1549894730181" ID="ID_706097699" MODIFIED="1549894750196">
@@ -357,8 +344,7 @@
       S&#8217;il est nyctalope, il voit des formes allong&#233;es autour de lui dans une salle vide jonch&#233;e de paille sale et de quelques d&#233;bris.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549894750198" ID="ID_230710542" MODIFIED="1549894779998">
 <richcontent TYPE="NODE"><html>
@@ -376,8 +362,7 @@
       C&#8217;est la garde de ton &#233;p&#233;e, sur laquelle tu as dormi. &#187;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549894780000" ID="ID_944844061" MODIFIED="1549894816048">
 <richcontent TYPE="NODE"><html>
@@ -395,8 +380,7 @@
       &#224; la suite de quoi ils ont sombr&#233; dans le sommeil, abrutis par l&#8217;alcool.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549894806099" ID="ID_1055906613" MODIFIED="1549894841598">
 <richcontent TYPE="NODE"><html>
@@ -408,8 +392,7 @@
       Ensuite, il peut r&#233;veiller les autres par m&#233;garde ou en le faisant expr&#232;s, le tout &#233;tant d&#8217;avoir un groupe &#233;veill&#233; au bout de quelques minutes, et dans un sale &#233;tat.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549894841599" ID="ID_693621600" MODIFIED="1549895002878">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -429,8 +412,7 @@
       &#160;(pour symboliser la gueule de bois).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549894865684" ID="ID_61009653" MODIFIED="1549894890553">
 <richcontent TYPE="NODE"><html>
@@ -445,8 +427,7 @@
       personne<b>&#160;ne se souvient encore</b>&#160;de la <b>taverne</b>, <b>ni</b>&#160; de la <b>mission</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -460,8 +441,7 @@
       Le cadavre
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1549895048703" ID="ID_730911586" LINK="#ID_1260077889" MODIFIED="1549902350326" TEXT="Cet homme ressemble &#xe0; un bandit, "/>
 <node CREATED="1549895067758" ID="ID_1954113021" MODIFIED="1549895096047">
@@ -477,8 +457,7 @@
       c&#8217;est un mercenaire &#224; la solde de l&#8217;herboriste mais bien s&#251;r les joueurs ne le savent pas.<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1549895114593" ID="ID_1979384764" MODIFIED="1549895116405" TEXT="Vous devez d&#xe9;cider quel personnage du groupe a tu&#xe9; cet homme au cours du raid de la nuit et il pourra le d&#xe9;couvrir en voyant, par exemple, du sang sur son &#xe9;p&#xe9;e."/>
@@ -501,8 +480,7 @@
       en voyant, par exemple, du sang sur son &#233;p&#233;e.<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549895209400" ID="ID_398308147" MODIFIED="1549895215024">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -513,8 +491,7 @@
       &#192; ce moment, vous pouvez lui donner son premier souvenir !
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549895215025" ID="ID_1682163706" MODIFIED="1549895300006">
 <richcontent TYPE="NODE"><html>
@@ -529,8 +506,7 @@
       quand le Barbare a l&#226;ch&#233; la torche par terre &#187;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1549895313780" ID="ID_73568304" MODIFIED="1549895323889" TEXT="Vous pouvez fouiller ce cadavre et m&#xea;me attribuer &#xe0; posteriori 2 ou 3 X.P. &#xe0; chacun pour le combat (dans lequel tout le monde aurait particip&#xe9;). Tous les butins de cette aventure sont rassembl&#xe9;s dans la &#xab; fiche de butins &#xbb;.">
@@ -548,8 +524,7 @@
       Pour ce qui est de la r&#233;cup&#233;ration graduelle des souvenirs,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1549895385562" ID="ID_748057100" MODIFIED="1549895396029">
@@ -598,8 +573,7 @@
       dans la poche<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549898340940" ID="ID_562524163" MODIFIED="1549898405181">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -610,8 +584,7 @@
       Je vous conseille de la <b>balancer</b>&#160;&#224; un joueur &#224; un moment<br />de votre choix (sous forme d&#8217;une <b>boule de papier </b>),
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1549898367762" ID="ID_648880347" MODIFIED="1549898390321">
@@ -636,8 +609,7 @@
       Usuellement, ce sera un &#233;rudit du groupe qui l&#8217;aura dans la poche,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549898438538" ID="ID_154392231" MODIFIED="1549898530215">
 <richcontent TYPE="NODE"><html>
@@ -649,8 +621,7 @@
       La note de mission a &#233;t&#233; <b>&#233;crite par le Archi</b>&#160;(le personnage ne reconna&#238;t pas son &#233;criture)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549898530215" ID="ID_317541302" MODIFIED="1549898530217">
 <richcontent TYPE="NODE"><html>
@@ -702,8 +673,7 @@
       Typiquement, &#171; Tu viens de retrouver &#231;a dans ta poche &#187;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1102371919" MODIFIED="1549903108210" POSITION="right" STYLE="bubble">
@@ -716,8 +686,7 @@
       Exploration<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549901221137" ID="ID_576700015" MODIFIED="1549901234944">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -731,8 +700,7 @@
       est constitu&#233; de deux parties :&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549901249651" ID="ID_823562089" MODIFIED="1549901782653">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -746,8 +714,7 @@
       (cercle rouge sur le plan)&#160;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549901353314" ID="ID_440135229" MODIFIED="1549901387804">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -758,8 +725,7 @@
       Un homme encha&#238;n&#233; dans le noir et qui est lui-m&#234;me prisonnier.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-2"/>
 <node CREATED="1549901382877" ID="ID_1381137342" MODIFIED="1549901410147">
 <richcontent TYPE="NODE"><html>
@@ -771,8 +737,7 @@
       C&#8217;est un cobaye pour les exp&#233;riences et bien s&#251;r il ne le sait pas.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1549901410147" ID="ID_1007599720" MODIFIED="1549901432696">
@@ -785,8 +750,7 @@
       Il a &#233;t&#233; enlev&#233; par les hommes de main de l&#8217;herboriste alors qu&#8217;il rangeait tranquillement des cageots de chou.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549901432697" ID="ID_1714383374" MODIFIED="1549901478707">
 <richcontent TYPE="NODE"><html>
@@ -801,8 +765,7 @@
       Les aventuriers peuvent le d&#233;livrer et l&#8217;emmener avec eux, ou le laisser sur place... En fonction de leur choix, bonus d&#8217;XP possible.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549901478708" ID="ID_1105144951" MODIFIED="1549901653859">
 <richcontent TYPE="NODE"><html>
@@ -814,8 +777,7 @@
       Apr&#232;s cela je place en g&#233;n&#233;ral un ZOMBIE qui aura &#233;t&#233; <b>lib&#233;r&#233;</b>&#160; d&#8217;une alc&#244;ve par une dalle &#224; pression et qui arrive lentement sur eux, surgissant de l&#8217;obscurit&#233;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549901544901" ID="ID_446080160" MODIFIED="1549901638186">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -829,8 +791,7 @@
       Avec le matos de &quot;Captain Sonar&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="idea"/>
 </node>
@@ -845,8 +806,7 @@
       Celui-ci &#233;tant seul, c&#8217;est un moyen d&#8217;initier les joueurs au syst&#232;me de<br />combat avec un seul ennemi contre eux, c&#8217;est plut&#244;t cool &#233;tant donn&#233; les faibles capacit&#233;s du zombie
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -864,8 +824,7 @@
       que les aventuriers <b>pourront voir s&#8217;ils</b>&#160;font attention aux pi&#232;ges...
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="button_ok"/>
 </node>
 <node CREATED="1549901966014" ID="ID_1967796660" MODIFIED="1549901966017">
@@ -878,8 +837,7 @@
       Et sinon, l&#8217;un d&#8217;eux se le prendra. Ici d&#233;tection standard des pi&#232;ges... Ou pas !
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1549902927707" ID="ID_770037362" MODIFIED="1549902973425">
@@ -895,8 +853,7 @@
       &#160;les aventuriers <b>tombent sur un mur, un cul de sac.</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549902973426" ID="ID_1984427596" MODIFIED="1549903054443">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -910,8 +867,7 @@
       S&#8217;il est examin&#233; attentivement.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1549902990221" ID="ID_1657379191" LINK="#ID_1265344393" MODIFIED="1549903047512" STYLE="bubble">
@@ -924,8 +880,7 @@
       Il ne s&#8217;ouvre qu&#8217;en utilisant le mot de passe &#171; Brouette &#187; qui est donn&#233;<br />sur le papier (sans autre indication).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549903047513" ID="ID_186903983" MODIFIED="1549903047515">
 <richcontent TYPE="NODE"><html>
@@ -937,8 +892,7 @@
       Les gardes peuvent donner cette information s&#8217;ils sont cuisin&#233;s.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -978,8 +932,7 @@
       les gardes de la <b>salle 6</b>&#160;vont rappliquer, ouvrir la porte et commencer le combat.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549902402707" ID="ID_791138212" MODIFIED="1549902446368" TEXT=" Sinon ils peuvent passer la porte et les surprendre dans la salle (6) &#xa;et les combattre sur place, au milieu des tables, chaises et lits"/>
 </node>
@@ -997,8 +950,7 @@
       de main
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-6"/>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
@@ -1015,8 +967,7 @@
       (selon votre groupe vous pouvez adapter leur nombre, de 2 &#224; 3),
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549902620015" ID="ID_1380587803" MODIFIED="1549902666565">
 <richcontent TYPE="NODE"><html>
@@ -1028,8 +979,7 @@
       l&#8217;un d&#8217;eux peut se rendre et les aider &#224; passer le pi&#232;ge magique en (7) en indiquant &#224; quel endroit il ne faut &#171; pas marcher &#187;.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549902666570" ID="ID_1235560537" MODIFIED="1549902700489">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1043,8 +993,7 @@
       <b>pour se sacrifier </b>au service de l&#8217;herboriste !
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1058,8 +1007,7 @@
       le pi&#232;ge en (7) par ailleurs n&#8217;est pas m&#233;canique,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-7"/>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
@@ -1073,8 +1021,7 @@
       c&#8217;est un petit enchantement de zone qui &#233;lectrocute la cible
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549902776420" ID="ID_1905484478" MODIFIED="1549902795153">
 <richcontent TYPE="NODE"><html>
@@ -1086,8 +1033,7 @@
       donc il ne pourra &#234;tre d&#233;tect&#233; que par un mage (d&#233;tection de Priaka sur la zone).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549902795154" ID="ID_186567142" MODIFIED="1549902811634" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -1102,8 +1048,7 @@
       &#160;ou d&#233;sactiv&#233; avec un dispel magic.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1549902842079" ID="ID_934728040" MODIFIED="1549902868645">
@@ -1116,8 +1061,7 @@
       La porte en (8) est un peu difficile &#224; crocheter,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="full-8"/>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
@@ -1137,7 +1081,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" ID="ID_1453689637" MODIFIED="1549903138724" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1453689637" MODIFIED="1550491975350" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1147,8 +1091,7 @@
       L&#8217;herboriste fou
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549903159532" ID="ID_348373480" MODIFIED="1549903167934">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1159,8 +1102,7 @@
       En arrivant dans l&#8217;atelier de l&#8217;herboriste, celui-ci est occup&#233; &#224; ses pr&#233;parations.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549903167934" ID="ID_310033872" MODIFIED="1549903373204">
 <richcontent TYPE="NODE"><html>
@@ -1175,8 +1117,7 @@
       (et peut choisir de d&#233;clencher les cages des rats g&#233;ants en tirant sur un levier du mur,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="info"/>
 <icon BUILTIN="button_cancel"/>
 <node CREATED="1549903218534" ID="ID_1239151221" MODIFIED="1549903218536">
@@ -1204,8 +1145,7 @@
       pour tenir &#224; distance les aventuriers en leur envoyant une d&#233;charge &#224; chaque assaut.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549903292974" ID="ID_565328736" MODIFIED="1549903413167">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1241,8 +1181,7 @@
       On peut envisager ensuite plusieurs choix des aventuriers,
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549903449239" ID="ID_1722484041" MODIFIED="1549903458795">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1253,8 +1192,7 @@
       depuis la menace simple jusqu&#8217;&#224; la torture ou l&#8217;ex&#233;cution...
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549903458796" ID="ID_215687390" MODIFIED="1549903516342">
 <richcontent TYPE="NODE"><html>
@@ -1269,8 +1207,7 @@
       &#8211; <b>ou trouver</b>&#160;dans la salle &#8211; la fiole &#233;tiquet&#233;e &#171; antidote <b>Tugulak</b>&#160; &#187;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1549903499889" ID="ID_1210731383" MODIFIED="1549903546451">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1281,8 +1218,7 @@
       qui tra&#238;ne sur ses &#233;tag&#232;res et qui repr&#233;sente l&#8217;objet de la qu&#234;te.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1549903546451" ID="ID_646156940" MODIFIED="1549903557772">
 <richcontent TYPE="NODE"><html>
@@ -1294,14 +1230,13 @@
       Pour les reste des objets disponibles, voir la <b>fiche des butins.</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" ID="ID_1151334236" MODIFIED="1549903693063" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1151334236" MODIFIED="1550492082546" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1311,23 +1246,57 @@
       La sortie<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1549903734139" ID="ID_341022851" MODIFIED="1549903737900">
+</html></richcontent>
+<node CREATED="1549903734139" ID="ID_341022851" MODIFIED="1550492031520">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Les aventuriers en g&#233;n&#233;ral &#224; ce stade savent comment sortir du souterrain en utilisant le mot de passe, &#224; moins<br />qu&#8217;ils n&#8217;aient tu&#233; tout le monde... Mais d&#8217;une mani&#232;re g&#233;n&#233;rale il y en a au moins un qui interroge au choix un<br />garde sous la menace, ou bien l&#8217;herboriste ma&#238;tris&#233;. S&#8217;ils n&#8217;ont pas encore trouv&#233;, il faudra attendre qu&#8217;ils se<br />rendent pr&#232;s du &#171; mur &#233;trange &#187; en bas du plan et qu&#8217;ils prononcent le mot de passe pour sortir.<br />Au besoin, vous pouvez d&#233;bloquer la situation avec des &#233;preuves INT<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
+      Les aventuriers en g&#233;n&#233;ral &#224; ce stade savent comment sortir du souterrain en utilisant le mot de passe,
+    </p>
+    <p>
+      &#224; moins qu&#8217;ils n&#8217;aient tu&#233; tout le monde...
     </p>
   </body>
 </html>
 </richcontent>
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1550491989224" ID="ID_1832663366" MODIFIED="1550492063657">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Mais d&#8217;une mani&#232;re g&#233;n&#233;rale il y en a au moins un
+    </p>
+    <p>
+      qui interroge au choix un garde sous la menace,
+    </p>
+    <p>
+      ou bien l&#8217;herboriste ma&#238;tris&#233;.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1550492063658" ID="ID_666615891" MODIFIED="1550492063660">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      S&#8217;ils n&#8217;ont pas encore trouv&#233;, il faudra attendre qu&#8217;ils se<br />rendent pr&#232;s du &#171; mur &#233;trange &#187; en bas du plan et qu&#8217;ils prononcent le mot de passe pour sortir.<br />Au besoin, vous pouvez d&#233;bloquer la situation avec des &#233;preuves INT
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" ID="ID_880913259" MODIFIED="1549903778450" POSITION="right" STYLE="bubble">
+</node>
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_880913259" MODIFIED="1550492124427" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1337,20 +1306,140 @@
       Fin de mission
     </p>
   </body>
-</html>
-</richcontent>
-<node CREATED="1549903795506" ID="ID_1468882421" MODIFIED="1549903798683">
+</html></richcontent>
+<node CREATED="1549903795506" ID="ID_1468882421" MODIFIED="1550491677208">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Le retour au village ne devrait pas poser probl&#232;me. C&#8217;est en g&#233;n&#233;ral l&#8217;apr&#232;s-midi et &#231;a peut &#234;tre le moment de<br />faire un peu de <font size="14pt">roleplay</font>. Primo, en arrivant au village les aventuriers peuvent rencontrer des villageois qui se<br />marrent parce que &#171; Oh lala, vous n&#8217;&#233;tiez pas frais hier ! &#187;. Le patron de la taverne se souviendra de leur<br />concours stupide du genre &#171; Je parie que j&#8217;arrive &#224; cracher dans ta chope &#224; cinq m&#232;tres &#187;. Il peut &#233;ventuellement<br />leur pr&#233;senter une ardoise pour les d&#233;g&#226;ts ou les &#171; consommations que vous aviez oubli&#233; de payer &#187;. Un des<br />personnages aura pu se retrouver nu &#224; danser sur une table, etc. N&#8217;h&#233;sitez pas &#224; ajouter 1 ou 2 gardes<br />municipaux pour corser un peu la discussion.<br />Archibald, pr&#233;sent &#224; la taverne ou devant la taverne, sera heureux de r&#233;cup&#233;rer l&#8217;antidote et s&#8217;empressera de le<br />donner au gu&#233;risseur du village afin qu&#8217;il soigne la personne concern&#233;e par le poison. Il versera de la part d&#8217;une<br />tierce personne les 1000 P.O. pr&#233;vues aux aventuriers, prix non n&#233;gociable<br align="-webkit-auto" style="font-variant: normal; letter-spacing: normal; line-height: normal; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px" />
+      Le retour au village ne devrait pas poser probl&#232;me.
+    </p>
+    <p>
+      C&#8217;est en g&#233;n&#233;ral l&#8217;apr&#232;s-midi
     </p>
   </body>
 </html>
 </richcontent>
+</node>
+<node CREATED="1550491677214" ID="ID_1255810251" MODIFIED="1550492123300">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      et &#231;a peut &#234;tre le moment de faire un peu de roleplay :
+    </p>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="info"/>
+<icon BUILTIN="button_cancel"/>
+<node CREATED="1550491703955" ID="ID_276792510" MODIFIED="1550491784310">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      En arrivant au village les aventuriers peuvent rencontrer des villageois qui se<br />marrent parce que
+    </p>
+    <p>
+      &#171;<b>&#160;Oh lala, vous n&#8217;&#233;tiez pas frais hier !</b>&#160;&#187;.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1550491768320" ID="ID_168768192" MODIFIED="1550491822022">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Le patron de la taverne se souviendra de leur concours stupide du genre
+    </p>
+    <p>
+      &#171; Je parie que j&#8217;arrive &#224; cracher dans ta chope &#224; cinq m&#232;tres &#187;.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1550491822024" ID="ID_1155729937" MODIFIED="1550491831593">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Il peut &#233;ventuellement leur pr&#233;senter une ardoise pour les d&#233;g&#226;ts ou les &#171; consommations que vous aviez oubli&#233; de payer &#187;.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1550491831595" ID="ID_652575239" MODIFIED="1550491871274">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Un des personnages aura pu se retrouver nu &#224; danser sur une table, etc.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1550491871275" ID="ID_717589030" MODIFIED="1550491881262">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      N&#8217;h&#233;sitez pas &#224; ajouter 1 ou 2 gardes municipaux pour <b>corser un peu la discussion</b>.
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1550491846428" ID="ID_1517633589" MODIFIED="1550491907118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b>Archibald</b>, pr&#233;sent &#224; la taverne ou devant la taverne,
+    </p>
+    <p>
+      sera heureux de r&#233;cup&#233;rer l&#8217;antidote et s&#8217;empressera de le donner au gu&#233;risseur du village afin qu&#8217;il soigne la personne concern&#233;e par le poison.
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1550491907119" ID="ID_1682310916" MODIFIED="1550491929529">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Il versera de la part d&#8217;une tierce personne
+    </p>
+    <p>
+      les 1000 P.O. pr&#233;vues aux aventuriers, <b>prix non n&#233;gociable</b>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
