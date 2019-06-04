@@ -257,7 +257,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" ID="ID_103772571" MODIFIED="1550493345167" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_103772571" MODIFIED="1550493750060" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -560,7 +560,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1265344393" MODIFIED="1549903106702" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1265344393" MODIFIED="1550493776005" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -676,7 +676,7 @@
 </html></richcontent>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1102371919" MODIFIED="1549903108210" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1102371919" MODIFIED="1550494141311" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -687,7 +687,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1549901221137" ID="ID_576700015" MODIFIED="1549901234944">
+<node CREATED="1549901221137" ID="ID_576700015" MODIFIED="1550493779151">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -701,7 +701,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1549901249651" ID="ID_823562089" MODIFIED="1549901782653">
+<node CREATED="1549901249651" ID="ID_823562089" MODIFIED="1550494028229">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -897,7 +897,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1549901259564" ID="ID_866730878" MODIFIED="1549901260728" TEXT="la partie &#xab; &#xe0; vivre &#xbb;">
+<node CREATED="1549901259564" FOLDED="true" ID="ID_866730878" MODIFIED="1550494139829" TEXT="la partie &#xab; &#xe0; vivre &#xbb;">
 <node CREATED="1549902010116" ID="ID_1778987560" MODIFIED="1549902020276" TEXT="qui est &#xe9;clair&#xe9;e par des lampes &#xe0; huile accroch&#xe9;es dans le couloir. ">
 <node CREATED="1549901289689" ID="ID_1426197837" MODIFIED="1549902026818" TEXT="Fr&#xe9;quent&#xe9;e par les gardiens et par l&#x2019;herboriste,">
 <icon BUILTIN="info"/>
@@ -1081,7 +1081,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1453689637" MODIFIED="1550491975350" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1453689637" MODIFIED="1550494186616" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1236,7 +1236,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1151334236" MODIFIED="1550492082546" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_1151334236" MODIFIED="1550494197325" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1296,7 +1296,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_880913259" MODIFIED="1550492124427" POSITION="right" STYLE="bubble">
+<node BACKGROUND_COLOR="#99ccff" COLOR="#000000" CREATED="1409565585392" FOLDED="true" ID="ID_880913259" MODIFIED="1550494211087" POSITION="right" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
